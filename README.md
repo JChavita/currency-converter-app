@@ -105,10 +105,6 @@ If you encounter issues with dependency installation:
 2. Run `npm install` again
 3. Clear Metro bundler cache: `npx expo start -c`
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - Exchange rates provided by [exchangerate-api.com](https://www.exchangerate-api.com/)
