@@ -11,9 +11,8 @@ A mobile application built with React Native and Expo that allows users to conve
 - Offline support with SQLite database
 
 ## Screenshots
-
-<img src="screenshots/converter.png" width="300">
-<img src="screenshots/history.png" width="300">
+![WhatsApp Image 2025-04-28 at 14 53 12_75c0ea98](https://github.com/user-attachments/assets/92bca04e-5cfb-4c0e-984e-f561fc141ce8)
+![photo2](https://github.com/user-attachments/assets/db7c9058-a576-4e7d-b3e4-5e6ebca7c026)
 
 ## Prerequisites
 
